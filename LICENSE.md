@@ -1,4 +1,4 @@
-
+iStat Menus for macOS new Module: custom-actions & junk-removal offers the most advanced iStat Menus for macOS module, with custom-actions and junk-removal. Ideal for macOS power
 
 
 
